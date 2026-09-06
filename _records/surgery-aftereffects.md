@@ -9,7 +9,7 @@ breadcrumb_parent_title: 手術
 breadcrumb_parent_url: /surgery/
 previous_title: 頸部郭清術・両口蓋扁桃摘出術と入院
 previous_url: /surgery/neck-dissection-and-tonsillectomy/
-next_title: 病理検査で中咽頭がんと判明
+next_title: 病理検査で中咽頭がん・HPV16と判明
 next_url: /diagnosis/oropharyngeal-cancer-hpv16/
 original_updated: "2024-02-18T00:00:00+09:00"
 original_updated_label: 2024年2月18日

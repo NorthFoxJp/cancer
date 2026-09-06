@@ -7,7 +7,7 @@ event_period: 2022年3月11日〜3月28日
 lead: 放射線治療科の受診、固定用マスクの作成、治療方針の変更、初回照射までの記録です。
 breadcrumb_parent_title: 放射線治療
 breadcrumb_parent_url: /radiotherapy/
-previous_title: 病理検査で中咽頭がんと判明
+previous_title: 病理検査で中咽頭がん・HPV16と判明
 previous_url: /diagnosis/oropharyngeal-cancer-hpv16/
 next_title: 放射線治療中の口内炎対策と半夏瀉心湯
 next_url: /side-effects/oral-mucositis-and-hangeshashinto/
@@ -66,7 +66,7 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
   <figcaption>照射位置の説明を受けた際の画像（個人情報削除済み）</figcaption>
 </figure>
 
-この日、口腔外科でも診察を受け、悪化している虫歯2本を抜糸しました。これは「放射性下顎骨壊死」を起こさないためのものです。
+この日、口腔外科でも診察を受け、悪化している虫歯2本を抜歯しました。これは「放射性下顎骨壊死」を起こさないためのものです。
 
 <aside class="external-information">
 <h2>原文から参照していた外部情報</h2>

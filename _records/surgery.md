@@ -9,7 +9,7 @@ breadcrumb_parent_title: 手術
 breadcrumb_parent_url: /surgery/
 previous_title: 原発不明がんの診断と治療方針
 previous_url: /diagnosis/cancer-of-unknown-primary/
-next_title: 病理検査で中咽頭がんと判明
+next_title: 病理検査で中咽頭がん・HPV16と判明
 next_url: /diagnosis/oropharyngeal-cancer-hpv16/
 related_links:
   - title: 手術後の回復と残った症状

@@ -38,7 +38,7 @@ last_modified_at: "2025-11-30T00:00:00+09:00"
 
 治療中・治療後で味覚が戻らず戦い続けている方、本当に応援しています！
 
-食事＝修行の非常に状態と思います。でも徐々にでも味覚は戻ってくるようです。頑張って下さい！
+食事＝非常に修行の状態と思います。でも徐々にでも味覚は戻ってくるようです。頑張って下さい！
 
 <div class="image-pair">
   <figure><img src="{{ '/assets/images/after-treatment/food-spicy-noodles.jpg' | relative_url }}" alt="治療後に食べた刺激のある麺料理" loading="lazy"><figcaption>刺激のある食事</figcaption></figure>
