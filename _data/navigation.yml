@@ -1,0 +1,13 @@
+- title: 全体の経過
+  url: /timeline/
+- title: 発見・検査・診断
+  url: /diagnosis/
+- title: 手術
+  url: /surgery/
+- title: 放射線治療
+  url: /radiotherapy/
+- title: 副作用・対策
+  url: /side-effects/
+- title: 治療後
+  url: /after-treatment/
+

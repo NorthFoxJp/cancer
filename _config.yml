@@ -1,0 +1,42 @@
+title: "原発不明がん・中咽頭がん 闘病記 — 北きつねの治療記録"
+short_title: "原発不明がん・中咽頭がん 闘病記"
+description: "原発不明がんから中咽頭がんと判明し、頸部郭清術、扁桃摘出術、放射線治療を受けた患者本人による治療記録です。"
+url: "https://northfoxjp.github.io"
+baseurl: "/cancer"
+lang: ja
+author:
+  name: "北きつね"
+  url: "https://northfoxjp.blogspot.com/"
+timezone: Asia/Tokyo
+google_site_verification: ""
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-sitemap
+collections:
+  records:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: records
+    values:
+      layout: record
+      patient_experience: true
+      schema_type: BlogPosting
+      original_published: "2023-01-28T09:27:00+09:00"
+      source_url: "https://northfoxjp.blogspot.com/2023/01/blog-post.html"
+      sitemap: true
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - scripts
+  - source/**
+  - review/**
+  - 既存の情報.md

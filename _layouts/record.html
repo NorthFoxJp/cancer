@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="record h-entry">
+  <header class="record-header">
+    {% if page.stage %}<p class="eyebrow">{{ page.stage }}</p>{% endif %}
+    <h1 class="p-name">{{ page.title }}</h1>
+    {% if page.lead %}<p class="lead p-summary">{{ page.lead }}</p>{% endif %}
+    <dl class="record-meta">
+      {% if page.event_period %}<div><dt>記録した時期</dt><dd>{{ page.event_period }}</dd></div>{% endif %}
+      <div><dt>原文公開日</dt><dd><time datetime="2023-01-28">2023年1月28日</time></dd></div>
+      <div><dt>この内容の最終追記</dt><dd><time datetime="{{ page.original_updated | default: '2025-12-07' }}">{{ page.original_updated_label | default: '2025年12月7日' }}</time></dd></div>
+    </dl>
+  </header>
+
+  {% include patient-notice.html %}
+  {% if page.medication_content %}{% include medication-notice.html %}{% endif %}
+
+  <div class="record-body e-content">
+    {{ content }}
+  </div>
+
+  {% include related-records.html %}
+  <p class="source-note">移行元：<a href="{{ page.source_url }}" rel="external">Blogspot版「原発不明がん、中咽頭がん患者の私的まとめ」</a></p>
+</article>

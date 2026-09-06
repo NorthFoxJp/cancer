@@ -1,0 +1,11 @@
+{% if page.previous_url or page.next_url or page.related_links %}
+<nav class="related-records" aria-labelledby="related-records-title">
+  <h2 id="related-records-title">前後・関連する記録</h2>
+  <ul>
+    {% if page.previous_url %}<li><span>前の記録：</span><a href="{{ page.previous_url | relative_url }}">{{ page.previous_title }}</a></li>{% endif %}
+    {% if page.next_url %}<li><span>次の記録：</span><a href="{{ page.next_url | relative_url }}">{{ page.next_title }}</a></li>{% endif %}
+    {% for link in page.related_links %}<li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>{% endfor %}
+  </ul>
+</nav>
+{% endif %}
+

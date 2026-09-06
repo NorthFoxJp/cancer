@@ -1,0 +1,10 @@
+<nav class="breadcrumb" aria-label="パンくず">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">ホーム</a></li>
+    {% if page.breadcrumb_parent_title %}
+      <li><a href="{{ page.breadcrumb_parent_url | relative_url }}">{{ page.breadcrumb_parent_title }}</a></li>
+    {% endif %}
+    <li aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>
+

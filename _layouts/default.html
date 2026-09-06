@@ -1,0 +1,43 @@
+---
+---
+<!doctype html>
+<html lang="ja">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">本文へ移動</a>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.short_title }}</a>
+        <p class="site-author">北きつねの治療記録</p>
+      </div>
+      <nav class="global-nav" aria-label="主要メニュー">
+        <div class="global-nav__inner">
+          {% for item in site.data.navigation %}
+            <a href="{{ item.url | relative_url }}"{% if page.url contains item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+          {% endfor %}
+        </div>
+      </nav>
+    </header>
+
+    <div class="page-shell">
+      {% unless page.url == '/' %}{% include breadcrumb.html %}{% endunless %}
+      <main id="main-content" tabindex="-1">
+        {{ content }}
+      </main>
+    </div>
+
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <p>このサイトは患者本人による治療記録・体験記です。治療については医療専門家へご相談ください。</p>
+        <nav aria-label="補助メニュー">
+          <a href="{{ '/about/' | relative_url }}">このサイトについて</a>
+          <a href="{{ '/source-and-update-history/' | relative_url }}">原文・更新履歴</a>
+        </nav>
+        <p><small>&copy; {{ 'now' | date: '%Y' }} 北きつね</small></p>
+      </div>
+    </footer>
+  </body>
+</html>
+
