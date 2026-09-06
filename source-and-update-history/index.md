@@ -1,7 +1,7 @@
 ---
 layout: hub
 title: "移行元の原文と更新履歴"
-description: "Blogspot版の原発不明がん・中咽頭がん闘病記からの移行元、原文保存方針、公開日と更新履歴を記録しています。"
+description: "Blogspot版の原発不明がん・中咽頭がん闘病記からの移行元、公開日と更新履歴を記録しています。"
 schema_type: WebPage
 permalink: /source-and-update-history/
 ---
@@ -17,19 +17,6 @@ permalink: /source-and-update-history/
 - 原文公開日：2023年1月28日
 - 原文最終更新：2025年12月7日
 - 移行元URL：[Blogspot版の記事](https://northfoxjp.blogspot.com/2023/01/blog-post.html)
-
-## 原文の保存
-
-移行作業開始時点のBlogspot本文HTMLを、Gitリポジトリの`source/blogspot-original-2025-12-07.html`に保存しています。このファイルは公開サイトには出力されません。
-
-## 本文の編集方針
-
-- 本人の言葉、日付、出来事、感想を可能な限り維持する
-- 検索用のキーワードを本文へ追加しない
-- 見出し、段落、リストなどのHTML構造を読みやすく整理する
-- 意味が明白な単純な誤字のみ修正する
-- 意味や事実関係が変わる可能性がある箇所は修正せず、公開前の要確認事項に記録する
-- 本人の体験と外部の医学情報を分けて表示する
 
 ## 原文中の訂正履歴
 
