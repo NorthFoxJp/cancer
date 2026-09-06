@@ -28,6 +28,11 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 
 この段階では、まだ抗癌剤と放射線の合わせ技（化学療法）を行う予定でいました。また、入院しての放射線治療の予定でした。この入院の目的は、放射線治療を中断なく完走する事で、痛みなどによる放射線治療からの離脱の可能性を低くするためです。
 
+<figure class="document-image">
+  <a href="{{ '/assets/images/radiotherapy/treatment-plan.png' | relative_url }}"><img src="{{ '/assets/images/radiotherapy/treatment-plan.png' | relative_url }}" alt="2022年3月11日付のがん治療計画書・放射線治療同意書の一部" width="2320" height="2329" loading="lazy"></a>
+  <figcaption>放射線治療の説明時に受け取った治療計画書（個人情報削除済み）</figcaption>
+</figure>
+
 ### 3月16日（水）
 
 放射線治療のためのデータ取りや、マスク（放射線を決まった位置に照射するための固定具）の作成を行いました。
@@ -45,11 +50,21 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 
 予定線量66Gy、予定回数33回。
 
+<figure class="document-image">
+  <a href="{{ '/assets/images/radiotherapy/treatment-schedule.png' | relative_url }}"><img src="{{ '/assets/images/radiotherapy/treatment-schedule.png' | relative_url }}" alt="予定線量66Gy、予定回数33回と日ごとの照射予定が記載された放射線治療スケジュール表" width="2295" height="1986" loading="lazy"></a>
+  <figcaption>当時の放射線治療スケジュール表（個人情報削除済み）</figcaption>
+</figure>
+
 ## 放射線治療開始
 
 ### 3月28日（月）
 
 第一回目の放射線治療を行いました。治療時間は15分程度（位置合わせの時間などを含みます）で時間はかからないのですが、上記の固定用マスクの下に、コロナ禍なので不織布マスクを付けているので、治療中に呼吸がしづらいという事がありました。
+
+<figure class="document-image">
+  <a href="{{ '/assets/images/radiotherapy/irradiation-position.png' | relative_url }}"><img src="{{ '/assets/images/radiotherapy/irradiation-position.png' | relative_url }}" alt="頭頸部のCT画像上に放射線の照射範囲が色付きで示された説明画像" width="2552" height="1204" loading="lazy"></a>
+  <figcaption>照射位置の説明を受けた際の画像（個人情報削除済み）</figcaption>
+</figure>
 
 この日、口腔外科でも診察を受け、悪化している虫歯2本を抜糸しました。これは「放射性下顎骨壊死」を起こさないためのものです。
 

@@ -28,6 +28,22 @@ last_modified_at: "2023-02-05T00:00:00+09:00"
 - うがいの後「アズノール軟膏」を口内炎が起きそうな場所にガッツリ塗り込む。
 - 1日3回（食前30分以上前）、「半夏瀉心湯」でうがいする。
 
+<div class="image-pair">
+  <figure class="figure--portrait">
+    <a href="{{ '/assets/images/side-effects/azunol-gargle-screenshot.png' | relative_url }}"><img src="{{ '/assets/images/side-effects/azunol-gargle-screenshot.png' | relative_url }}" alt="当時参照していたアズノールうがい液の商品画像" width="654" height="1370" loading="lazy"></a>
+    <figcaption>原文に掲載していたアズノールうがい液の画像</figcaption>
+  </figure>
+  <figure>
+    <a href="{{ '/assets/images/side-effects/azunol-ointment.jpg' | relative_url }}"><img src="{{ '/assets/images/side-effects/azunol-ointment.jpg' | relative_url }}" alt="当時参照していたアズノール軟膏の商品画像" width="610" height="174" loading="lazy"></a>
+    <figcaption>原文に掲載していたアズノール軟膏の画像</figcaption>
+  </figure>
+</div>
+
+<figure class="document-image">
+  <a href="{{ '/assets/images/side-effects/hangeshashinto-gargle-guide.png' | relative_url }}"><img src="{{ '/assets/images/side-effects/hangeshashinto-gargle-guide.png' | relative_url }}" alt="半夏瀉心湯によるうがいの仕方について、用意するものと手順を記載した当時の資料" width="3450" height="2009" loading="lazy"></a>
+  <figcaption>原文に掲載していた「半夏瀉心湯によるうがいの仕方」の資料</figcaption>
+</figure>
+
 ## 半夏瀉心湯を使い始めた時期
 
 「半夏瀉心湯」でのうがいは、**12回目の照射後から開始**しました。この時点でほぼ味覚がなかったので、味はよく分かりませんでした。

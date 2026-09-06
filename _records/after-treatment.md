@@ -34,9 +34,15 @@ last_modified_at: "2025-07-21T00:00:00+09:00"
 - Dear-Natura（ディアナチュラ）L-カルニチン 500mg
 - COCOLAB EXBOOST
 
-<figure>
-  <img src="{{ '/assets/images/after-treatment/products-2025.jpg' | relative_url }}" alt="2025年7月の追記に掲載したディアナチュラ L-カルニチン 500mgとCOCOLAB EXBOOST" loading="lazy">
-  <figcaption>2025年7月21日の追記に掲載した写真</figcaption>
-</figure>
+<div class="image-pair image-pair--portrait">
+  <figure>
+    <a href="{{ '/assets/images/after-treatment/products-2025.jpg' | relative_url }}"><img src="{{ '/assets/images/after-treatment/products-2025.jpg' | relative_url }}" alt="2025年7月の追記に掲載したディアナチュラ L-カルニチン 500mgとCOCOLAB EXBOOSTの正面" loading="lazy"></a>
+    <figcaption>2025年7月21日の追記に掲載した正面の写真</figcaption>
+  </figure>
+  <figure>
+    <a href="{{ '/assets/images/after-treatment/products-back.jpg' | relative_url }}"><img src="{{ '/assets/images/after-treatment/products-back.jpg' | relative_url }}" alt="ディアナチュラ L-カルニチンとCOCOLAB EXBOOSTの包装裏面" width="1884" height="2048" loading="lazy"></a>
+    <figcaption>同じ商品の包装裏面</figcaption>
+  </figure>
+</div>
 
 この記録は、これらの商品や成分を他の方へ推奨したり、がん治療後の症状への効果を一般化したりするものではありません。

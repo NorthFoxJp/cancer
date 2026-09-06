@@ -34,6 +34,9 @@ figure { margin: 2rem 0; }
 figcaption { margin-top: .5rem; color: var(--muted); font-size: .9rem; text-align: center; }
 .external-figure img { margin-inline: auto; }
 .external-figure figcaption { font-size: .8rem; line-height: 1.65; }
+.document-image img { width: 100%; margin-inline: auto; border: 1px solid var(--line); background: #fff; }
+.document-stack { margin-block: 2rem; }
+.document-stack .document-image { margin-block: 1rem; }
 .image-pair { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1rem; align-items: start; }
 .image-pair figure { margin: .5rem 0; }
 .image-pair--portrait img, .figure--portrait img { max-height: 38rem; margin-inline: auto; object-fit: contain; }

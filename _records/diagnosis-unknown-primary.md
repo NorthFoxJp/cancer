@@ -39,6 +39,11 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 
 「PET/CT-FDG検査（通称ペット検査）」を受けました。このペット検査を受ける理由が診療明細に書かれていました（初めて「原発不明がん」の文字を見て、聞き間違いじゃなかったと認識します）。
 
+<figure class="document-image">
+  <a href="{{ '/assets/images/diagnosis/pet-examination-statement.jpg' | relative_url }}"><img src="{{ '/assets/images/diagnosis/pet-examination-statement.jpg' | relative_url }}" alt="PET検査の理由として原発不明癌と記載された診療明細の一部" width="754" height="201" loading="lazy"></a>
+  <figcaption>PET検査の理由が書かれていた診療明細（個人情報削除済み）</figcaption>
+</figure>
+
 ### 2月3日（木）
 
 「ペット検査」でも原発巣を特定できませんでした。「穿刺吸引細胞診」「上部消化管内視鏡検査」を受けます。「上部消化管内視鏡検査」の結果はその場で「問題ありません」で、あとは「穿刺吸引細胞診」の結果待ちでした。

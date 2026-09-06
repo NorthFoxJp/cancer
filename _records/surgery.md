@@ -22,6 +22,21 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 
 「右頸部郭清術」「両口蓋扁桃摘出術」「喉頭直達鏡検査・喉頭組織試験採取」を同時に行いました。
 
+<div class="document-stack">
+  <figure class="document-image">
+    <a href="{{ '/assets/images/surgery/consent-form-1.png' | relative_url }}"><img src="{{ '/assets/images/surgery/consent-form-1.png' | relative_url }}" alt="右頸部郭清術の手術説明書・同意書の一部" width="1174" height="334" loading="lazy"></a>
+    <figcaption>右頸部郭清術の手術説明書・同意書（個人情報削除済み）</figcaption>
+  </figure>
+  <figure class="document-image">
+    <a href="{{ '/assets/images/surgery/consent-form-2.png' | relative_url }}"><img src="{{ '/assets/images/surgery/consent-form-2.png' | relative_url }}" alt="両口蓋扁桃摘出術の手術説明書・同意書の一部" width="1161" height="326" loading="lazy"></a>
+    <figcaption>両口蓋扁桃摘出術の手術説明書・同意書（個人情報削除済み）</figcaption>
+  </figure>
+  <figure class="document-image">
+    <a href="{{ '/assets/images/surgery/consent-form-3.png' | relative_url }}"><img src="{{ '/assets/images/surgery/consent-form-3.png' | relative_url }}" alt="喉頭直達鏡検査・喉頭組織試験採取の手術説明書・同意書の一部" width="1160" height="323" loading="lazy"></a>
+    <figcaption>喉頭直達鏡検査・喉頭組織試験採取の手術説明書・同意書（個人情報削除済み）</figcaption>
+  </figure>
+</div>
+
 ### 2月17日（木）
 
 コロナ禍なので、入院前にPCR検査を受けて、陰性が確認されてからの入院。
@@ -77,6 +92,11 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 ## どのくらいで退院できた？
 
 入院から退院まではこんな感じです。12泊13日でした。
+
+<figure class="document-image">
+  <a href="{{ '/assets/images/surgery/hospital-course.png' | relative_url }}"><img src="{{ '/assets/images/surgery/hospital-course.png' | relative_url }}" alt="2022年2月17日の入院から3月1日の退院まで、日ごとの症状と経過をまとめた表" width="2134" height="1197" loading="lazy"></a>
+  <figcaption>入院初日から退院までの経過表</figcaption>
+</figure>
 
 <div class="image-pair">
   <figure>

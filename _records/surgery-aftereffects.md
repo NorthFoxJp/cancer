@@ -19,6 +19,11 @@ last_modified_at: "2024-02-18T00:00:00+09:00"
 
 このような資料をもらって、自分のペースで進めていました。退院する頃には両腕を上げることができるようになっていました（もともと、四十肩や五十肩ではなかったので、両腕を上げて伸ばしていました）。
 
+<figure class="document-image">
+  <a href="{{ '/assets/images/surgery/neck-exercise-pamphlet.png' | relative_url }}"><img src="{{ '/assets/images/surgery/neck-exercise-pamphlet.png' | relative_url }}" alt="頸部郭清術後に行う肩や首の体操を説明した患者指導用パンフレット" width="970" height="714" loading="lazy"></a>
+  <figcaption>当時受け取った、頸部郭清術後に行う体操の患者指導用パンフレット</figcaption>
+</figure>
+
 ## 後遺症は？
 
 手術から一年経過しますが、PCの画面をのぞき込むような姿勢で数時間の仕事（休憩を取らずに）をしていると、背筋から震えがくるような悪寒と痛みが走り、30分ほど横にならないと治まらない状態になります（痛み止めの服用のみで治まるときもあります）。大丈夫なときは夜遅くまで仕事をしても、この症状は現れません。そのため、はっきりとした原因は分かっていません。

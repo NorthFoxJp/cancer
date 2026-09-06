@@ -42,6 +42,11 @@ last_modified_at: "2023-02-05T00:00:00+09:00"
 
 耳鼻咽喉科麻生病院に検査の結果を聞きに受診しましたが原因は分からず、しかし腫瘍マーカーCYFRA（シフラ）値が若干高めと言う結果でした。
 
+<figure class="document-image">
+  <a href="{{ '/assets/images/diagnosis/cyfra-result.jpg' | relative_url }}"><img src="{{ '/assets/images/diagnosis/cyfra-result.jpg' | relative_url }}" alt="2022年1月11日採取の検査成績書。CEA、SCC抗原、シフラの結果が記載され、個人情報はマスキングされている" width="1506" height="698" loading="lazy"></a>
+  <figcaption>当時の検査成績書（個人情報削除済み）</figcaption>
+</figure>
+
 原因が不明のため「造影CT」「穿刺吸引細胞診（2回目）」を行いました。
 
 ### 1月21日（金）
