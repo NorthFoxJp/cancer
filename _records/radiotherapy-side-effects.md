@@ -21,6 +21,17 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 
 使用していたものは「ノブ フォーミングソープ D」と「コラージュDメディパワー保湿ジェル」です。
 
+<div class="image-pair external-image-pair">
+  <figure class="external-figure">
+    <a href="https://noevirgroup.jp/nov/g/g57301/"><img src="https://noevirgroup.jp/img/goods/L/57301.jpg" alt="ノブ フォーミングソープ Dの商品画像" width="242" height="242" loading="lazy"></a>
+    <figcaption>画像出典：<a href="https://noevirgroup.jp/nov/g/g57301/">ノブ公式「ノブ フォーミングソープ D」</a></figcaption>
+  </figure>
+  <figure class="external-figure">
+    <a href="https://hc.mochida.co.jp/brand/dmp.html"><img src="https://www.collage.ne.jp/imgs/products/dmp_item_045.jpg" alt="コラージュDメディパワー保湿ジェルの商品画像" width="290" height="320" loading="lazy"></a>
+    <figcaption>画像出典：<a href="https://hc.mochida.co.jp/brand/dmp.html">持田ヘルスケア「コラージュDメディパワーシリーズ」</a></figcaption>
+  </figure>
+</div>
+
 そのおかげで、若干の赤みは出たものの痛みやヒリヒリ感が起きるまでには至らずに済みました。
 
 ## 治療途中の体調変化

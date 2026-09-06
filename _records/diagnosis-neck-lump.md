@@ -33,6 +33,11 @@ last_modified_at: "2023-02-05T00:00:00+09:00"
 
 [耳鼻咽喉科麻生病院](https://www.jibiazabu.or.jp/azabu/)で受けた検査は、1月11日に「血液検査」「穿刺吸引細胞診（1回目）」「超音波検査」で、「細胞診」では首に針を刺すので、ちょっとビビりましたがチクっとした程度で痛くはなかったです。
 
+<figure class="external-figure">
+  <a href="https://www.jibiazabu.or.jp/azabu/"><img src="https://www.jibiazabu.or.jp/img/common/footer_link_01.webp" alt="耳鼻咽喉科麻生病院の案内画像" width="280" height="280" loading="lazy"></a>
+  <figcaption>画像出典：<a href="https://www.jibiazabu.or.jp/azabu/">耳鼻咽喉科麻生病院 公式サイト</a></figcaption>
+</figure>
+
 ### 1月20日（木）
 
 耳鼻咽喉科麻生病院に検査の結果を聞きに受診しましたが原因は分からず、しかし腫瘍マーカーCYFRA（シフラ）値が若干高めと言う結果でした。

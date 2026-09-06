@@ -32,7 +32,12 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 
 放射線治療のためのデータ取りや、マスク（放射線を決まった位置に照射するための固定具）の作成を行いました。
 
-原文で掲載していた固定具の例は、[東洋メディック株式会社 Type-S 放射線治療用ヘッドネックショルダシステム](https://www.toyo-medic.co.jp/products/medical/accessories_rt/pt-immobilization/type_s/)です。
+このような感じのマスクを作成しました。
+
+<figure class="external-figure">
+  <a href="https://www.toyo-medic.co.jp/products/medical/accessories_rt/pt-immobilization/type_s/"><img src="https://www.toyo-medic.co.jp/tym_wp/wp-content/uploads/2018/01/pro_accessories_rt_patient_positioning_equip_type_s_01.jpg" alt="Type-S 放射線治療用ヘッドネックショルダシステム" width="800" height="533" loading="lazy"></a>
+  <figcaption>画像出典：<a href="https://www.toyo-medic.co.jp/products/medical/accessories_rt/pt-immobilization/type_s/">東洋メディック株式会社「Type-S 放射線治療用ヘッドネックショルダシステム」</a></figcaption>
+</figure>
 
 今後の治療について、先生から「耳鼻咽喉科の先生とも協議した結果、手術で原発巣は摘出できているので、根治を目的とした放射線治療のみで抗癌剤は併用しないでいきます」との説明を受けました。正直、抗癌剤を使わないと聞いてホッとしました。義母が抗癌剤の影響での激やせ＋超体力消耗と言う状態を見ていたので、体力的に楽になる！と思いました。
 

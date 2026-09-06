@@ -17,6 +17,11 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 ---
 ## 次の段階（市立札幌病院）
 
+<figure class="external-figure">
+  <a href="https://commons.wikimedia.org/wiki/File:Sapporo_City_General_Hospital.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Sapporo_City_General_Hospital.JPG" alt="市立札幌病院の建物" width="800" height="600" loading="lazy"></a>
+  <figcaption>市立札幌病院。画像：禁樹なずな、<a href="https://commons.wikimedia.org/wiki/File:Sapporo_City_General_Hospital.JPG">Wikimedia Commons</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>。画像の改変はしていません。</figcaption>
+</figure>
+
 ### 1月28日（金）の続き
 
 耳鼻咽喉科麻生病院からの紹介状と検査データ（CD）をもって、[市立札幌病院](https://www.city.sapporo.jp/hospital/)の外来に入りました。ここからは、市立札幌病院での話になります。
@@ -24,6 +29,11 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 耳鼻咽喉科で「ファイバースコープ」「触診」「血液検査」「画像診断（麻生病院からのデータ）」を行いました。診察の結果、ここで初めて「原発不明がん」と言う病名を知りました。
 
 ただこの時は、この「原発不明がん」と言う病気の危険性をまったく理解していませんでしたし、軽く何かの間違いだろうぐらいに思っていました。なにせ発熱もなければ痛みもないので、危機感がまるでありませんでした。
+
+<figure class="external-figure">
+  <a href="https://medical.jiji.com/topics/2639"><img src="https://medical.jiji.com/images/image/topics/54f86039b2bffbb1e28df031ff6c8a1b.jpeg" alt="時事メディカル『原発不明がんの治療薬』の記事画像" width="793" height="793" loading="lazy"></a>
+  <figcaption>画像出典：<a href="https://medical.jiji.com/topics/2639">時事メディカル「原発不明がんの治療薬～日本で使用可能に」</a></figcaption>
+</figure>
 
 ### 2月1日（火）
 
@@ -40,6 +50,11 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 「治療方法としては手術＋化学療法、手術のみ、化学療法のみの選択がありますが、どれにしますか？それぞれ、メリットとデメリットがあります。etc」って言っていることが頭に入らず「一番確実に癌を消せる方法で……」としか言えずでした。
 
 「では手術など治療の打ち合わせをしますので、明日来院できますか？」と……ここまで明確に「がん」を告げられたので、明日もいつも通りで一人で受診しよう。
+
+<figure class="external-figure">
+  <a href="https://oncolo.jp/news/20220120tm01"><img src="https://oncolo-wp-prod.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2022/01/dr_nakagawa_slide_01.png" alt="オンコロの記事に掲載された原発不明がんに関するスライド" width="533" height="371" loading="lazy"></a>
+  <figcaption>画像出典：<a href="https://oncolo.jp/news/20220120tm01">がん情報サイト「オンコロ」の原発不明がん関連記事</a></figcaption>
+</figure>
 
 実は、この「何月何日に何をした？」のまとめ記録は、この2月7日のがん宣告をきっかけに記録を開始しました。自力で調べた結果、原発不明がんと診断されるケースは少なく希少がんに該当し、予後は明るくないと分かったので、万が一の事態になったとしても記録を残しておけば何かの役にたつかな？……と思ったからです。
 
@@ -64,6 +79,11 @@ last_modified_at: "2023-01-28T09:27:00+09:00"
 また「同時に行うと術後に辛い痛みを伴いますが、右頸部郭清術と同時に両方の扁桃腺の摘出と、ランダムな細胞摘出も行いましょう。運よく扁桃腺に原発があれば、がんを摘出してしまう事ができるし、その後に化学療法を行えば、がんを根治できる可能性が高くなります。ただ、術後は本当に痛いですがやりますか？」との問いに、「やります！根治の可能性が高い事はすべてやります！化学療法もやります！」と言い切ったのですが、手術後の目覚めたとき、マジで言わなきゃよかったと全力で後悔することになります。
 
 この日は、手術で気管内挿管を行うので口腔内をきれいに保つ必要があるということで（感染症防止の観点など）、口腔外科を受診し「パノラマ撮影」を行って、歯周病のチェックや歯磨き、舌苔の落とし方などの指導を受けました。また、気管内挿管時に歯を守るマウスピース（気管挿管用口腔内装置）も作成しました。
+
+<figure class="external-figure">
+  <a href="https://www.okayama-u.ac.jp/user/ohnccpky/infomation01.html"><img src="https://www.okayama-u.ac.jp/user/ohnccpky/images/infomation01_img_01.jpg" alt="岡山大学病院頭頸部がんセンターの説明画像" width="567" height="316" loading="lazy"></a>
+  <figcaption>画像出典：<a href="https://www.okayama-u.ac.jp/user/ohnccpky/infomation01.html">岡山大学病院 頭頸部がんセンター</a></figcaption>
+</figure>
 
 以下の論文紹介にも書いていますが、「口蓋扁桃摘出術は高い原発腫瘍検出力（34%）があることが示されました。」とあります。私の場合、このケースにハマってくれたようです。
 
