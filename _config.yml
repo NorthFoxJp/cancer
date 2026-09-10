@@ -9,6 +9,8 @@ author:
   url: "https://northfoxjp.blogspot.com/"
 timezone: Asia/Tokyo
 google_site_verification: ""
+# Cloudflare Web Analyticsの公開用計測トークン（APIトークンではありません）
+cloudflare_web_analytics_token: "8728dedc37094d09b27d4a53fe823d76"
 permalink: pretty
 markdown: kramdown
 kramdown:

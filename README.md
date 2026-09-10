@@ -85,6 +85,25 @@ google_site_verification: "Search Consoleから発行された値"
 
 公開後、Search ConsoleのURLプレフィックスプロパティへ`https://northfoxjp.github.io/cancer/`を登録し、`https://northfoxjp.github.io/cancer/sitemap.xml`を送信します。
 
+## Cloudflare Web Analytics
+
+GitHub Pagesのまま、Cloudflare Web Analyticsでアクセスを計測できます。
+
+1. Cloudflare管理画面の **Web Analytics → Add a site** で、ホスト名 `northfoxjp.github.io` を登録します（`https://` や `/cancer/` は含めません）。すでに同じホスト名を登録している場合は、その設定を使用します。
+2. **Manage site** に表示される計測コードの `token` の値を、`_config.yml` に設定します。
+
+   ```yaml
+   cloudflare_web_analytics_token: "発行された計測トークン"
+   ```
+
+   これはページに公開される計測用トークンです。Cloudflare APIトークンは設定しません。
+3. GitHub Pagesへ公開すると、共通レイアウトを使う全ページの `</body>` 直前に計測コードが出力されます。
+4. 公開サイトを閲覧し、数分後にCloudflare Web Analyticsでデータを確認します。同じホスト名に別サイトがある場合は、Pathで `/cancer/` 配下を絞り込みます。
+
+トークンが空の場合と、通常のローカルプレビューでは計測コードを出力しません。本番と同じ出力をローカルで確認する場合は `JEKYLL_ENV=production bundle exec jekyll build` を実行します。GitHub Pagesのビルド環境は `production` です。
+
+公式手順: [Cloudflare Web Analyticsの設定](https://developers.cloudflare.com/web-analytics/get-started/)
+
 ## Blogspot側の移行
 
 新サイトの全ページが表示できることを確認するまでは、Blogspot記事を変更しません。
